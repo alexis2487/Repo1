@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\calculosalarioforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:calculosalarioforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\calculosalarioforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:calculosalarioforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|c:\\users\\usuario\\desktop\\sustentacion\\project 5 semestre\\abstraccion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\resultadocalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:resultadocalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\resultadocalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B5D1DF-77AC-4D9D-B7CC-C7D970DF6A28}|CalculoSalariaForms.csproj|solutionrelative:resultadocalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\Inicio.cs",
+              "RelativeToolTip": "Inicio.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.29Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoSalarioForms.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\CalculoSalarioForms.cs",
+              "RelativeDocumentMoniker": "CalculoSalarioForms.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\CalculoSalarioForms.cs",
+              "RelativeToolTip": "CalculoSalarioForms.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAADwv3QAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculoSalarioForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\CalculoSalarioForms.cs",
+              "RelativeDocumentMoniker": "CalculoSalarioForms.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\CalculoSalarioForms.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculoSalarioForms.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.293Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultadoCalculo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\ResultadoCalculo.cs",
+              "RelativeDocumentMoniker": "ResultadoCalculo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\ResultadoCalculo.cs",
+              "RelativeToolTip": "ResultadoCalculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.294Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultadoCalculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\ResultadoCalculo.cs",
+              "RelativeDocumentMoniker": "ResultadoCalculo.cs",
+              "ToolTip": "C:\\Users\\jaira\\OneDrive\\Escritorio\\Sustentacion\\Project 5 semestre\\Abstraccion\\ResultadoCalculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\jaira\\OneDrive\\Escritorio\\Sustentacion\\Project 5 semestre\\Abstraccion\\ResultadoCalculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.295Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nomina.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\Nomina.cs",
+              "RelativeDocumentMoniker": "Nomina.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Sustentacion\\Project 5 semestre\\Abstraccion\\Nomina.cs",
+              "RelativeToolTip": "Nomina.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:20:01.297Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

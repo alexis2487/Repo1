@@ -1,0 +1,65 @@
+C:\Users\jaira\source\repos\CalculoSalariaForms\bin\Debug\CalculoSalariaForms.exe.config
+C:\Users\jaira\source\repos\CalculoSalariaForms\bin\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\source\repos\CalculoSalariaForms\bin\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.csproj.AssemblyReference.cache
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.CalculoSalarioForms.resources
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.FormsInicio.resources
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.Properties.Resources.resources
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.csproj.GenerateResource.cache
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.csproj.CoreCompileInputs.cache
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.ResultadoCalculo.resources
+C:\Users\jaira\source\repos\CalculoSalariaForms\obj\Debug\CalculoSalariaForms.g.resources
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.csproj.AssemblyReference.cache
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.g.resources
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.CalculoSalarioForms.resources
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.FormsInicio.resources
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.Properties.Resources.resources
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.ResultadoCalculo.resources
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.csproj.GenerateResource.cache
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.csproj.CoreCompileInputs.cache
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\bin\Debug\CalculoSalariaForms.exe.config
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\bin\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\source\repos\CalculoSalariaFormsPRUEBA\bin\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\bin\Debug\CalculoSalariaForms.exe.config
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\bin\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\bin\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.csproj.AssemblyReference.cache
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.g.resources
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.CalculoSalarioForms.resources
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.FormsInicio.resources
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.Properties.Resources.resources
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.ResultadoCalculo.resources
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.csproj.GenerateResource.cache
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.csproj.CoreCompileInputs.cache
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\OneDrive\Escritorio\Proyecto\Project\CalculoSalariaFormsPRUEBA\obj\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\bin\Debug\CalculoSalariaForms.exe.config
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\bin\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\bin\Debug\CalculoSalariaForms.pdb
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.csproj.AssemblyReference.cache
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.g.resources
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.CalculoSalarioForms.resources
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.FormsInicio.resources
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.Properties.Resources.resources
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.ResultadoCalculo.resources
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.csproj.GenerateResource.cache
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.csproj.CoreCompileInputs.cache
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.exe
+C:\Users\jaira\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\bin\Debug\CalculoSalariaForms.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\bin\Debug\CalculoSalariaForms.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\bin\Debug\CalculoSalariaForms.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.g.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.CalculoSalarioForms.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.FormsInicio.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.ResultadoCalculo.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Sustentacion\Project 5 semestre\Abstraccion\obj\Debug\CalculoSalariaForms.pdb

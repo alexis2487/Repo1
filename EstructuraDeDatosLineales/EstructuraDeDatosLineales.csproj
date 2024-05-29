@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85F69D25-87CC-4547-AF21-7DFB8FBFE0B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EstructuraDeDatosLineales</RootNamespace>
+    <AssemblyName>EstructuraDeDatosLineales</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ColaAeroCola.cs" />
+    <Compile Include="EstructuraDeDatosLienalesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstructuraDeDatosLienalesList.Designer.cs">
+      <DependentUpon>EstructuraDeDatosLienalesList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ingreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingreso.Designer.cs">
+      <DependentUpon>Ingreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaEstudiante.cs" />
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pila.cs" />
+    <Compile Include="RegistroDeDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDeDatos.Designer.cs">
+      <DependentUpon>RegistroDeDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroDeDatosCola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDeDatosCola.Designer.cs">
+      <DependentUpon>RegistroDeDatosCola.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="EstructuraDeDatosLienalesList.resx">
+      <DependentUpon>EstructuraDeDatosLienalesList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingreso.resx">
+      <DependentUpon>Ingreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroDeDatos.resx">
+      <DependentUpon>RegistroDeDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistroDeDatosCola.resx">
+      <DependentUpon>RegistroDeDatosCola.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\factura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar_person_boy_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar_person_boy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialoguebubble_4874.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar_person_boy_male_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-30-instagram-stories-icons83_122630.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\education_hat_graduate_cap_university_student_icon_185895.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
